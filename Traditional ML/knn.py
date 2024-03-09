@@ -76,7 +76,6 @@ class KNearestNeighbors:
         return majority
         
 
-# even/odd classifier
 X = np.array([
     # name, sweetness, crunchiness
     ['apple',     10,  9],
